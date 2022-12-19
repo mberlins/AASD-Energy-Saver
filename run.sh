@@ -1,0 +1,1 @@
+sudo prosodyctl register sensors localhost password

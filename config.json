@@ -1,0 +1,40 @@
+{
+  "rooms": [
+    {
+      "id": "01"
+    },
+    {
+      "id": "02"
+    },
+    {
+      "id": "03"
+    },
+    {
+      "id": "04"
+    },
+    {
+      "id": "05"
+    }
+  ],
+  "sensors": [
+    {
+      "name": "ROOM_TERM_SENSOR",
+      "max": 26,
+      "min": 10,
+      "interval": 5
+    },
+    {
+      "name": "FLOOR_TERM_SENSOR",
+      "max": 15,
+      "min": 10,
+      "interval": 2
+    },
+    {
+      "name": "UV_TERM_SENSOR",
+      "max": 40,
+      "min": 15,
+      "interval": 10
+    }
+  ],
+  "preferred_temp": 21
+}
